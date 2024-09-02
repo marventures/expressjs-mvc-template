@@ -1,8 +1,7 @@
 {
-  "name": "nba-api",
+  "name": "expressjs-mvc-template",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "This project is a boilerplate for building an Express.js application with MVC architecture",
   "scripts": {
     "start": "node --watch ./server.js",
     "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
