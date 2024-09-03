@@ -60,10 +60,10 @@ NOTE: The server will start at http://localhost:{PORT}.
 
 ### Available Scripts
 
-- `npm start`: Starts the server with Node.js and watches for file changes.
-- `npm test`: Runs the Jest test suite.
-- `npm run lint`: Lints the codebase using ESLint.
-- `npm run lint:fix`: Automatically fixes linting issues
+- `npm start` - Starts the server with Node.js and watches for file changes.
+- `npm test` - Runs the Jest test suite.
+- `npm run lint` - Lints the codebase using ESLint.
+- `npm run lint:fix` - Automatically fixes linting issues
 
 ### API Endpoints
 
