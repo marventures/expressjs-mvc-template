@@ -18,9 +18,10 @@ This project is a boilerplate for building an Express.js application with MVC ar
 
 - `Express.js`: Minimal and flexible Node.js web application framework.
 - `Environment Configuration`: Using dotenv to manage environment variables.
-- `Testing`: Integrated with Jest and Supertest for testing routes and functionality.
 - `CORS`: Cross-Origin Resource Sharing enabled via the cors package.
 - `Request Logging`: HTTP request logger using morgan.
+- `Testing`: Integrated with Jest and Supertest for testing routes and functionality.
+- `Linting` - ESLint configured for code quality and consistency.
 
 ## Usage
 
@@ -61,6 +62,8 @@ NOTE: The server will start at http://localhost:{PORT}.
 
 - `npm start`: Starts the server with Node.js and watches for file changes.
 - `npm test`: Runs the Jest test suite.
+- `npm run lint`: Lints the codebase using ESLint.
+- `npm run lint:fix`: Automatically fixes linting issues
 
 ### API Endpoints
 
